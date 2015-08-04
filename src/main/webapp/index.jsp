@@ -8,7 +8,7 @@
 loading..
  <%
   //Point path to main component 
-  Path p = Paths.get("/Users/rraodv/docker-stuff/tictactoe/src/main/webapp/WEB-INF/components/");
+  Path p = Paths.get("/usr/src/app");
 
   //create a FileSourceListener file listner
   FileSourceListener listener = new FileSourceListener();
